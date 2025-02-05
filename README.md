@@ -4,9 +4,9 @@
 
 ## 🚀 Desarrollador | Diseñador Web | Entusiasta de la IA
 
-Bienvenido a mi perfil de GitHub. Aquí comparto proyectos relacionados con la programación, el diseño y la inteligencia artificial. Si quieres saber más sobre mí, no dudes en explorar mis repositorios.
+Bienvenido a mi perfil de GitHub. Aquí les comparto proyectos relacionados con programación, diseño e inteligencia artificial. Si quieres saber más sobre mí... ¡No dudes en explorar mi repositorio!
 
-### 🌱 Estoy aprendiendo:
+### 🌱 Manejo de:
 
 - Desarrollo Frontend 
 - Desarrollo Backend 
@@ -23,7 +23,7 @@ Bienvenido a mi perfil de GitHub. Aquí comparto proyectos relacionados con la p
 
 ---
 
-### 🌍 Contactame
+### 🌍 Puedes contáctarme a traves de: 
 
 - [LinkedIn](www.linkedin.com/in/gabriel-fabián-340713309)
 - [Instagram](https://www.instagram.com/gabriel_fabian_pf?igsh=eW0zeGF6MnZvOWx0)
